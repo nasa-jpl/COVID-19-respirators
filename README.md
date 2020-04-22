@@ -1,4 +1,4 @@
-# COVID-19-respirators
+# JPL COVID-19-respirators
 JPL designed and tested 3D printed respirators to help with the COVID-19 pandemic response.
 The designs and instructions for three different types of respirators and the resulting detailed test data is published here.
 In addition, designs and instructions for custom filters are also included.
@@ -30,4 +30,25 @@ The performance respirator design can be easily configured for use with differen
  * Integrated Custom Filter - In this configuration the front rigid section consists of two pieces with an integrated pleated filter (total surface area of 98 cm2) and provides the most compact arrangement that can fit under a standard face shield. Intake and exhaust both pass through the filter medium and are routed to the sides of the respirator. Additional information on the custom integrated filter can be found in the “Custom Filters” section.
 
 The following subsections will describe the tools/equipment required, materials used, fabrication process, assembly guide.
+
+## Tools and Equipment:
+ * FDM 3D printer
+     * Standard 0.4 mm print nozzle
+     * Print area must be greater than 15x15 cm.
+     * Capable of printing TPU (direct drive extruder recommended)
+ * Xacto blade or similar
+ * Calipers (optional)
+
+## Materials Required:
+ * PLA or PETG Filament - Used for rigid components
+     * PETG is recommended for higher temperature and chemical resistance.
+ * Shore 95A TPU Filament  - Used for flexible face seal.
+     * Ninjaflex Cheetah and Polymaker Flex have been tested.
+ * 3/8 “ Elastic Banding (36” Length) - Standard elastic banding for sewing is sufficient.
+ * 3/16” Thick Foam or Equivalent - Used for the cartridge attachment point seal.
+     * Compliant foam such as a contact shelf liner would work.
+ * Filter Medium - An appropriate filter medium for use with the integrated filter.
+     * HEPA vacuum bag material (Kenmore brand) currently recommended.
+ * Note, currently *not* NIOSH certified for medical use.
+     * Additional information in the custom filter section.
 
