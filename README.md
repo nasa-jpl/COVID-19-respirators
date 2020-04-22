@@ -14,7 +14,7 @@ To decide which respirator is right for your use, please consider these question
  5. What’s your face shape?
  6. What’s your face size?
 
-Below are sections for three different respirator designs that are intended for different usea plus how to make your own cartridges and filters:
+Below are sections for three different respirator designs that are intended for different uses, how to make your own cartridges and filters, how to test them, a disclaimer, and acknowledgements:
  1. Design 1: The Performance Respirator
  2. Design 2: The Comfort Respirator
  3. Design 3: The Conforming Respirator
