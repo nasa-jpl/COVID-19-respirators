@@ -52,3 +52,31 @@ The following subsections will describe the tools/equipment required, materials 
  * Note, currently *not* NIOSH certified for medical use.
      * Additional information in the custom filter section.
 
+## Components and Fabrication
+![figs/d1-f3.png](figs/d1-f3.png)
+The standard version compatible with stock filter cartridges consists of only 9 components. Below is a short description of each part with fabrication guidelines. Note, the integrated filter cartridge version follows the same process but swaps the filter cartridge adaptor for the integrated filter.
+
+### Printed Parts
+ * 1x Flexible Face Seal - The flexible face seal should be printed first from a 95A TPU material in a size appropriate for the user.
+     * Material - Shore 95A TPU (NinijaFlex Cheetah and Polymaker Flex have both been verified to work)
+     * Print Settings - 0.2 mm layer height, 2 perimeters, 0.45 mm line width
+     * Notes - If calipers are available, measure the thickness of the front lip. This value can be used to select the appropriate rigid adaptor size.
+ * 1x Rigid Adaptor Plate
+     * Material - PLA or PETG
+     * Print Settings - 0.2 mm layer height, 3 perimeters, 0.45 mm line width, 10% infill
+     * Notes - Multiple files are provided to allow for variation in print tolerances. The end
+designator indicates the size fihte slot used to mount
+ * 4x Strap Adjustment Clips
+     * Material - PLA or PETG
+     * Print Settings - Normal print settings.
+     * Notes - None.
+
+### Other:
+ * 1x Filter Cartridge Seal - Reference designs respirator designs 2 &3 for instructions on
+cutting the foam ring seals.
+ *  2x Straps - Cut two strips to a length of 46 cm (18”). This can be increased or decreased
+based on user preference.
+ * 1x Integrated Filter (Option) - Instructions for the filter assembly are provided in the “Custom
+Filters” section.
+General fabrication notes and tips will be provided here and periodically updated based on user comments and questions.
+ * PLA is very easy to print but has a low softening temperature and is susceptible to warping at elevated temperatures (such as in the hot interior of a parked vehicle during the summer). If you expect that respirator may be stored in a location where the temperature can exceed 100 oF, the use of PETG is recommended.
