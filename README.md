@@ -78,5 +78,19 @@ cutting the foam ring seals.
 based on user preference.
  * 1x Integrated Filter (Option) - Instructions for the filter assembly are provided in the “Custom
 Filters” section.
+
 General fabrication notes and tips will be provided here and periodically updated based on user comments and questions.
- * PLA is very easy to print but has a low softening temperature and is susceptible to warping at elevated temperatures (such as in the hot interior of a parked vehicle during the summer). If you expect that respirator may be stored in a location where the temperature can exceed 100 oF, the use of PETG is recommended.
+
+ * *PLA is very easy to print but has a low softening temperature and is susceptible to warping at elevated temperatures (such as in the hot interior of a parked vehicle during the summer). If you expect that respirator may be stored in a location where the temperature can exceed 100 oF, the use of PETG is recommended.*
+
+## Respirator Assembly
+![figs/d1-f4.png](figs/d1-f4.png)
+Once the required parts are printed, this is the basic assembly process (refer to pictures below):
+
+ 1. Prepare the flexible face seal section. Pull away any stringers and left from the printing process.
+ 2. Slot the top lip of the flexible face seal into the matching groove on the rigid filter cartridge adaptor plate or integrated filter cartridge. This connection is meant to be tight, and should not be loose as it seals the rigid element against the flex face seal.
+     a. If the connection is either too loose or tight reprint the rigid element with the corresponding smaller or larger slot size version respectively. Groove sizes of 0.8, 0.85, and 0.9 mm will be provided (0.85 mm is default). Different printers will vary in dimensional tolerance so this will have to be checked on a case by case basis.
+ 3. Place the filter cartridge seal ring over the cartridge attachment point on the rigid front plate.
+ 4. Attached straps through the mount points on the flexible face seal using the strap clips to allow for length adjustment. Alternately the straps can simply be tied off.
+ 5. Attach filter cartridge if required.
+ 6. Test fit and adjust strap tension as required.
