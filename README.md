@@ -18,5 +18,16 @@ To decide which respirator is right for your use, please consider these question
 
 # Design 1: JPL Performance Respirator
 ## Overview
-![Design 1 - Fig 1](d1-f1.png)
+![Two configurations, custom detachachable filter cartridge and integrated filter cartridge, for version 6 of the performance respirator being worn by the designer.](figs/d1-f1.png)
+
+The performance respirator design attempts to mimic the face seal geometry of commercial half-face respirators, such as those from 3M, to provide the highest level of fit performance. This is achieved through the use of a two piece assembly that consists of both a flexible and rigid element. The rigid element provides effective attachment for external filter cartridges while the flexible element has an internal lip to provide a conformal seal against the user’s face. The design also allows the front rigid section to be exchanged for compatibility with a wide range of different filter configurations while preserving the face seal and mounting straps.
+
+![d1-f2.png](figs/d1-f2.png)
+
+The performance respirator design can be easily configured for use with different filter types by swapping the front rigid element. By swapping the front rigid element, the respirator can currently be arranged in two different configurations; front adapter compatible with COTS/custom filter cartridges or with a compact integrated custom filter.
+
+ * Filter Cartridge Mount - In this configuration the rigid section consists of a cover plate that slots into the flexible face seal and provides a filter cartridge attachment point. Currently, the design is configured to be compatible with 3M filter cartridges but the intent is to provide options based on community input.
+ * Integrated Custom Filter - In this configuration the front rigid section consists of two pieces with an integrated pleated filter (total surface area of 98 cm2) and provides the most compact arrangement that can fit under a standard face shield. Intake and exhaust both pass through the filter medium and are routed to the sides of the respirator. Additional information on the custom integrated filter can be found in the “Custom Filters” section.
+
+The following subsections will describe the tools/equipment required, materials used, fabrication process, assembly guide.
 
