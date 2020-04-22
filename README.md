@@ -135,3 +135,15 @@ seal”
 |Component Seal|4|Hand-cut|
 |Headbands|2|Hand-cut|
 |Face Seal (optional for flexible housing)|1|Hand-cut|
+
+### Build Steps
+ 1. *Measure mendon-sellion length*
+    Mendon-sellion length (face length): The vertical distance from the tip of the chin to the deepest point of the nasal root depression between the eyes.
+    ![figs/d2-f4.png](figs/d2-f4.png)
+ 2. *Choose the right housing STL according to size and mask configuration*
+    ![figs/d2-f5.png](figs/d2-f5.png)
+ 3. *3D Print the respirator housing*
+    The recommended material for the housing is Cheetah TPU, as this will allow housing to flex and form to the face maintaining a positive seal during face movements. To avoid layer gaps and stringing, it is recommended that you print a single housing with no other parts on the printer bed. Recommended print settings; 5 perimeters, 5 top and 5 bottom layers @ 0.20mm layer height with a .040mm nozzle to ensure proper body seal. If available, use “Extra perimeters if needed”,”Cross perimeter avoidance”, and “Thin wall detection” on slicer application. Then follow filament manufacturer guidelines for material print settings. Faster print times may be achieved with a larger nozzle but this design and settings are intended for most common 3D printer configuration.
+  4. *3D Print cartridge adapter and accessories*
+The most recommended material for respirators accessories is PETG, this will give you the best mechanical advantages.
+   ![figs/d2-f6.png](figs/d2-f6.png) 
