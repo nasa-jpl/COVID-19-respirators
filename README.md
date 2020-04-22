@@ -147,3 +147,26 @@ seal”
   4. *3D Print cartridge adapter and accessories*
 The most recommended material for respirators accessories is PETG, this will give you the best mechanical advantages.
    ![figs/d2-f6.png](figs/d2-f6.png) 
+  6. *Cut seals and headbands*
+Use the 3D printed seal template to trace and cut the seals, you can fold the seal in half to cut the inner circle.
+   ![figs/d2-f7.png](figs/d2-f7.png) 
+  Wrap elastic around the wearer's head without stretching it at nose level and cut two elastics of same length, alternatively you can measure out and cut one piece to approx. length of 22” and a second one to 18”, you can trim excess after a fit test if necessary.
+   ![figs/d2-f8.png](figs/d2-f8.png) 
+  7. *Respirator Assembly*
+      * Gather all pieces
+      * Install seals on both sides of the cartridge adapters
+  ![figs/d2-f9.png](figs/d2-f9.png)
+      * Insert cartridge adapters to side ports and port seal to front port.
+  ![figs/d2-f10.png](figs/d2-f10.png) 
+      * Install adapter nuts, do not tighten.
+  ![figs/d2-f11.png](figs/d2-f11.png)
+      * Orient the smaller cartridge key to the center of the housing.
+  ![figs/d2-f12.png](figs/d2-f12.png)
+      * While holding both sides tighten adapter nuts with pliers or 3D printed tool, do not overtighten.
+  ![figs/d2-f13.png](figs/d2-f13.png)
+      * Install headbands by inserting the long end from the back of the strap mount thru the closest to to center slot.
+  ![figs/d2-f14.png](figs/d2-f14.png)
+      * Continue to zig-zag the strap thru all the slots of the strap mount
+  ![figs/d2-f15.png](figs/d2-f15.png)
+      * Repeat this for all four strap mounts.
+  ![figs/d2-f16.png](figs/d2-f16.png)
