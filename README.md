@@ -100,3 +100,9 @@ Once the required parts are printed, this is the basic assembly process (refer t
 ## Reference Images:
 ![figs/d1-f6.png](figs/d1-f6.png)
 ![figs/d1-f7.png](figs/d1-f7.png)
+
+# Design2: JPL Comfort Respirator
+## Overview
+![figs/d2-f1.png](figs/d2-f1.png)
+Designed to be manufactured and assembled with little expertise and non-specialized equipment. Printable in two configurations rigid and flexible. All manufacturing materials are easily found at hardware or hobby shops. The chosen 3D printable materials include PLA, PETG and Ninjatek’s Cheetah (TPU) ; these are all common and easily printable filaments with most 3D printers. All assembly parts can be made of either but there are advantages for choosing the most recommended.
+
