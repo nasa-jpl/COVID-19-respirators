@@ -124,3 +124,14 @@ The rigid configuration requires an added peel back weatherseal EDPM rubber (*no
  * Contact solid grip shelf liner. “Component seals”
  * EPDM D-profile weather-seal 5/16” wide 1⁄4” thick (required for rigid housing, optional for flexible housing) “Face
 seal”
+
+### Bill of Materials
+| Component|Qty|Manufacturing method|
+|---|---|---|
+|Housing |1|3D printed|
+|Cartridge Adapter|2|3D printed|
+|Adapter Nut|3|3D printed|
+|Port Seal|1|3D printed|
+|Component Seal|4|Hand-cut|
+|Headbands|2|Hand-cut|
+|Face Seal (optional for flexible housing)|1|Hand-cut|
