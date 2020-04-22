@@ -304,6 +304,38 @@ For ease of printing here are the print profiles for Cheetah TPU filament on the
  </tr>
 </table>
 
+4. 3D Print cartridge adapter and accessories
+
+<table>
+ <tr>
+  <td>STL</td>
+  <td>QTY</td>
+  <td>File Name</td>
+ </tr>
+ <tr>
+  <td>Single Cartridge Adapter</td>
+  <td>1x</td>
+  <td>Low Profile Filter Adapter</td>
+ </tr>
+ <tr>
+  <td>Double Cartridge Adaptor</td>
+  <td>1x</td>
+  <td>Wide Double Filter Adaptor 3.stl</td>
+</table>
+
+These can be printed out of your favorite rigid filament.
+
+5. Cut seals and headbands
+Cut circular seals for your adaptor as shown: Foam or shelf liner material works well as a seal.
+![figs/d3-f7.png](figs/d3-f7.png)
+
+Cut sewing elastic and tie as shown:
+![figs/d3-f8.png](figs/d3-f8.png)
+
+6. Assemble pieces and test
+![figs/d3-f9.png](figs/d3-f9.png)
+
+
 # Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
 We recommend the published CDC NIOSH positive and negative seal check procedure​ before using the respirator to make sure that it is of proper size and to ensure there weren't any faults during manufacturing/assembling. Do this without filter cartridges installed, ports should be easily blocked with the palms of your hands.
