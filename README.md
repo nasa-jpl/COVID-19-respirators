@@ -207,6 +207,37 @@ This comes in two styles, Fast Vase and Low Profile Vase variations shown above.
 |Seals|1-2|Hand-cut|
 |Straps|1|Hand-cut|
 
+## Directions:
+  1. If using existing files measure your menton-sellion (m) length. If you would like to design a custom fit take the measurements to fill in the table below.
+  <table>
+  <th>
+ <td colspan="4">Choose units (mm preferred)</td>
+   </th>
+  <tr>
+   <td>Measurements</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td>Nasal Contour</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td>Menton-sellion length(m)</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td>Bigonial breadth(n)</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+</table>
 
 # Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
