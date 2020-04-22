@@ -175,6 +175,13 @@ Use the 3D printed seal template to trace and cut the seals, you can fold the se
       * Repeat this for all four strap mounts.
   ![figs/d2-f16.png](figs/d2-f16.png)
 
+# Design3: JPL Conforming Respirators
+## Overview:
+Using more advanced printing material and multiple extruder nozzle size options this design is focused on conforming to a wide range of faces and accelerated printing. This means fewer sizes are needed to comfortably seal to the range of human face dimensions.
+
+This comes in two styles, Fast Vase and Low Profile Vase variations shown above. Each of these can use a single or double filter adapter shown below. Depending on size these prints range from 30 minutes with a 1.2 mm nozzle and up to 4.5 hours with a traditional 0.4 mm nozzle.
+Fast Vase Print Single Filter:
+  ![figs/d3-f11png](figs/d3-f1.png)
 
 # Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
