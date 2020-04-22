@@ -18,4 +18,5 @@ To decide which respirator is right for your use, please consider these question
 
 # Design 1: JPL Performance Respirator
 ## Overview
+![Design 1 - Fig 1](d1-f1.png)
 
