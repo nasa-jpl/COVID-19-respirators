@@ -94,3 +94,9 @@ Once the required parts are printed, this is the basic assembly process (refer t
  4. Attached straps through the mount points on the flexible face seal using the strap clips to allow for length adjustment. Alternately the straps can simply be tied off.
  5. Attach filter cartridge if required.
  6. Test fit and adjust strap tension as required.
+
+![figs/d1-f5.png](figs/d1-f5.png)
+
+## Reference Images:
+![figs/d1-f6.png](figs/d1-f6.png)
+![figs/d1-f7.png](figs/d1-f7.png)
