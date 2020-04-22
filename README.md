@@ -263,6 +263,47 @@ This comes in two styles, Fast Vase and Low Profile Vase variations shown above.
 Or modify cad appropriately:
 ![figs/d3-f5.png](figs/d3-f5.png)
 
+3. 3D Print respirator
+To avoid layer gaps and stringing it is recommended that you print a single housing with no other parts on the printer bed. Recommended print settings; 5 perimeters,5 top and 5 bottom layers @ 0.20mm layer height with a .040mm nozzle. If available use “Extra perimeters if needed”,”Cross perimeter avoidance”,”Thin wall detection” on slicer application. Then follow filament manufacturer guidelines for material print setting. Faster print times may be achieved with a larger nozzle but this design and settings are intended for most common 3D printer configuration.
+For ease of printing here are the print profiles for Cheetah TPU filament on the TAZ 6 with Moarstruder and the Prusa. More profiles and materials to come.
+![figs/d3-f6.png](figs/d3-f6.png)
+
+<table>
+   <tr>
+    <td>Printer</td>
+    <td>Nozzle Size</td>
+    <td>Material</td>
+    <td>Profile File Name</td>
+    <td>Comments</td>
+ </tr>
+ <tr>
+  <td>Taz 6</td>
+  <td>1.2</td>
+  <td>Cheetah</td>
+  <td>Cheetah Moar Vase Profile.curaprofile</td>
+  <td>In special modes click spiralize outer contour</td>
+ </tr>
+ <tr>
+  <td>Taz 6</td>
+  <td>1.2</td>
+  <td>Matterhackers Pro TPU</td>
+  <td>Pro TPU Moar Vase Profile.curaprofile</td>
+  <td>In special modes click spiralize outer contour. Use Tune on the printer and increase Flow to 120 at beginning of print</td>
+ </tr>
+ <tr>
+  <td>Prusa</td>
+  <td>0.4</td>
+  <td>Cheetah</td>
+  <td>Cheetah - TPU.ini</td>
+ </tr>
+ <tr>
+  <td>Prusa</td>
+  <td>0.8</td>
+  <td>Cheetah</td>
+  <td>Cheetah 0.8 - TPU.ini</td>
+ </tr>
+</table>
+
 # Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
 We recommend the published CDC NIOSH positive and negative seal check procedure​ before using the respirator to make sure that it is of proper size and to ensure there weren't any faults during manufacturing/assembling. Do this without filter cartridges installed, ports should be easily blocked with the palms of your hands.
