@@ -335,6 +335,56 @@ Cut sewing elastic and tie as shown:
 ![figs/d3-f8.png](figs/d3-f8.png)
 
 
+# Design 4: Custom Filters to fit the respirators Overview:
+Because there is a critical shortage of commercial respirator filters, the JPL team designed, built, and tested custom filters with the respirators. This section describes how to build those.
+
+The filter media can either be Commercial Off The Shelf (COTS) filter cartridges, like the P100 filter, or they can be home-built filters that either use cut up N95 masks or HEPA filter material. We have been testing the performance of different HEPA filters from hardware stores to demonstrate how well they filter out particles. Additionally, it was found during testing that flat filter material implementation did not provide sufficient filter surface area causing high breathing resistance and reducing filter effectiveness. Consequently the custom filter cartridges described here utilize a pleated filter material design to significantly increase the filter surface area to make it easier to breathe.
+
+## Custom Filter Cartridge - 3M Compatible:
+![figs/d4-f1.png](figs/d4-f1.png)
+A custom filter cartridge was designed to both be compatible with 3M style adaptors and allow the use of alternate filter materials, such as HEPA vacuum bags. It is intended that future cartridge designs will provide compatibility with other brands. For this design, the pleated filter material provides 3.25x greater surface area compared to flat sheet.
+
+## Printed Parts:
+* 1x Filter Base
+    * Material - PLA or PETG
+    * Print Settings - 0.2 mm layer height, 3 perimeters, 0.45 mm line width, 10% infill
+    * Notes - Is printed with additional perimeter to reduce the likelihood of porous side walls.
+* 1x Filter Cover - 
+    * Material - PLA or PETG
+    * Print Settings - Normal print settings.
+    * Notes - None.
+
+## Other:
+ * 2x HEPA Filter Cloth​ - Reference designs respirator designs 2 &3 for instructions on cutting the foam ring seals.
+ * 4x #4 x 3⁄8” Flat Head Wood or Sheet Metal Screws - These can commonly be found at larger hardware stores in the fastener section.
+
+## Assembly (see pictures below to go with the text):
+ 1. Cut two sheets of the filter cloth to a size of approximately 84x138 mm (3.31”x5.43”).
+ 2. Create 13mm (1⁄2”) pleats in the filter cloth. The small 3mm ends should also be folded. Taking care with this step makes the rest go more smoothly.
+ 3. Insert the two pleated filter cloths into the filter base.
+ 4. Ensure that the filter cloth is fully seated. Using a small screwdriver to push the valleys of the filter into the frame helps with this.
+ 5. Insert filter cover to clamp the filter cloth.
+ 6. Check that the exhaust channels are not blocked by excess filter material. If the channels are blocked remove the cover; trim a small amount from the filter cloth; and then replace the cover.
+ 7. Secure the filter cover with four #6 flat head wood screws.
+ 
+ ![figs/d4-f2.png](figs/d4-f2.png)
+ 
+## Integrated Filter Cartridge - Design 1 Filter:
+The integrated filter cartridge utilizes the same pleated design and is assembled in the same manner as the 3M compatible version but in the size package directly compatible with Design1’s flexible face seal. Please reference the section above for materials, components, and additional assembly details.
+
+### Assembly (see pictures below to go with the text):
+Cartridge assembly follows the same process as the 3M compatible cartridge. A condensed version is described below:
+ 1. Fold two 61x190 mm (2.4”x7.5”) layers of filter material with 13 mm (1⁄2”) pleats.
+ 2. Insert pleated filter material into the filter cartridge base.
+ 3. Attach cover and fixture in place with four #6 flat head screws.
+  ![figs/d4-f3.png](figs/d4-f3.png)
+
+## Select Respirator Fit Test Results
+The test results document describes the performance of the respirators in the JPL tests. They were tested by the same individual and the same equipment for comparisons. Your results may vary depending on the size and shape or your face. Please perform a fit test before using them. The test results can be viewed at:
+
+ * https://drive.google.com/file/d/1wHfQ2mfvhPVK0e2QqBtErNonMUchVUmq/view?usp=sharing
+ ![figs/d4-f4.png](figs/d4-f4.png)
+
 # Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
 We recommend the published CDC NIOSH positive and negative seal check procedure​ before using the respirator to make sure that it is of proper size and to ensure there weren't any faults during manufacturing/assembling. Do this without filter cartridges installed, ports should be easily blocked with the palms of your hands.
