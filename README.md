@@ -266,7 +266,6 @@ Or modify cad appropriately:
 3. 3D Print respirator
 To avoid layer gaps and stringing it is recommended that you print a single housing with no other parts on the printer bed. Recommended print settings; 5 perimeters,5 top and 5 bottom layers @ 0.20mm layer height with a .040mm nozzle. If available use “Extra perimeters if needed”,”Cross perimeter avoidance”,”Thin wall detection” on slicer application. Then follow filament manufacturer guidelines for material print setting. Faster print times may be achieved with a larger nozzle but this design and settings are intended for most common 3D printer configuration.
 For ease of printing here are the print profiles for Cheetah TPU filament on the TAZ 6 with Moarstruder and the Prusa. More profiles and materials to come.
-![figs/d3-f6.png](figs/d3-f6.png)
 
 <table>
    <tr>
@@ -327,13 +326,13 @@ These can be printed out of your favorite rigid filament.
 
 5. Cut seals and headbands
 Cut circular seals for your adaptor as shown: Foam or shelf liner material works well as a seal.
-![figs/d3-f7.png](figs/d3-f7.png)
+![figs/d3-f6.png](figs/d3-f6.png)
 
 Cut sewing elastic and tie as shown:
-![figs/d3-f8.png](figs/d3-f8.png)
+![figs/d3-f7.png](figs/d3-f7.png)
 
 6. Assemble pieces and test
-![figs/d3-f9.png](figs/d3-f9.png)
+![figs/d3-f8.png](figs/d3-f8.png)
 
 
 # Doing your own Fit Check (aka seal test):
