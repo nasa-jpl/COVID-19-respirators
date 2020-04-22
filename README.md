@@ -106,3 +106,21 @@ Once the required parts are printed, this is the basic assembly process (refer t
 ![figs/d2-f1.png](figs/d2-f1.png)
 Designed to be manufactured and assembled with little expertise and non-specialized equipment. Printable in two configurations rigid and flexible. All manufacturing materials are easily found at hardware or hobby shops. The chosen 3D printable materials include PLA, PETG and Ninjatek’s Cheetah (TPU) ; these are all common and easily printable filaments with most 3D printers. All assembly parts can be made of either but there are advantages for choosing the most recommended.
 
+![figs/d2-f2.png](figs/d2-f2.png)
+
+## Respirator Overview
+![figs/d2-f3.png](figs/d2-f3.png)
+The rigid configuration requires an added peel back weatherseal EDPM rubber (*not shown*) that ensures a positive seal and wearer comfort. The flexible configuration can be configured with or without added seal edge for greater comfort and seal assurance during jaw movement.
+
+### Tools Required
+ * FDM 3D Printer (direct drive preferred)
+ * Scissors / Small cutters
+ * Pliers
+ * PliersRuler / Measuring tape (optional)
+ 
+### Materials Required
+ * 3D printer filament (PLA, PETG, Ninjatek Cheetah TPU) “Housing & Accessories”
+ * 3⁄8”-1⁄2” Elastic Bands “Headbands”
+ * Contact solid grip shelf liner. “Component seals”
+ * EPDM D-profile weather-seal 5/16” wide 1⁄4” thick (required for rigid housing, optional for flexible housing) “Face
+seal”
