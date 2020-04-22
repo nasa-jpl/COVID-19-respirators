@@ -180,8 +180,33 @@ Use the 3D printed seal template to trace and cut the seals, you can fold the se
 Using more advanced printing material and multiple extruder nozzle size options this design is focused on conforming to a wide range of faces and accelerated printing. This means fewer sizes are needed to comfortably seal to the range of human face dimensions.
 
 This comes in two styles, Fast Vase and Low Profile Vase variations shown above. Each of these can use a single or double filter adapter shown below. Depending on size these prints range from 30 minutes with a 1.2 mm nozzle and up to 4.5 hours with a traditional 0.4 mm nozzle.
-Fast Vase Print Single Filter:
+### Fast Vase Print Single Filter:
   ![figs/d3-f11png](figs/d3-f1.png)
+
+### Low Profile Vase Single Filter Variation:
+  ![figs/d3-f2.png](figs/d3-f2.png)
+
+### Low Profile Dual Filter:
+  ![figs/d3-f3.png](figs/d3-f3.png)
+  
+## Tools Required
+ * FDM 3D Printer (direct drive preferred, larger nozzle size preferred)
+ * Scissors / Small cutters
+
+## Materials Required
+  * Facial Interface: 3D printer filament (Ninjatek Cheetah TPU, Polymaker Polyflex, Matterhackers Pro TPU)
+  * Adapter: 3 D printer filament (PETG, PLA or ABS or other rigid filament.)
+  * Straps: 3⁄8”-1⁄2” Elastic Bands (sewing elastic, rubber bands or string can also be used)
+  * Component seals: Contact solid grip shelf liner, dense foam or rubber sheet.
+
+## Bill of Materials
+| Component|Qty|Manufacturing method|
+|---|---|---|
+|Facial Interface |1|3D printed|
+|Cartridge Adapter|1|3D printed|
+|Seals|1-2|Hand-cut|
+|Straps|1|Hand-cut|
+
 
 # Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
