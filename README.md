@@ -14,13 +14,18 @@ To decide which respirator is right for your use, please consider these question
  5. What’s your face shape?
  6. What’s your face size?
 
-Below are sections for three different respirator designs that are intended for different usea plus how to make your own cartridges and filters:
+Below are sections for three different respirator designs that are intended for different uses, how to make your own cartridges and filters, how to test them, a disclaimer, and acknowledgements:
  1. Design 1: The Performance Respirator
  2. Design 2: The Comfort Respirator
  3. Design 3: The Conforming Respirator
- 4. Creating custom cartridges and filters
+ 4. Creating custom cartridges to fit the respirators
+ 5. Respirator Fit Test Results
+ 6. Doing your own Fit Test Check
+ 7. Other Resources
+ 8. Disclaimer
+ 9. Acknowledgements
  
-# Design 1: JPL Performance Respirator
+# 1. Design 1: JPL Performance Respirator
 ## Overview
 ![Two configurations, custom detachachable filter cartridge and integrated filter cartridge, for version 6 of the performance respirator being worn by the designer.](figs/d1-f1.png)
 
@@ -105,7 +110,7 @@ Once the required parts are printed, this is the basic assembly process (refer t
 ![figs/d1-f6.png](figs/d1-f6.png)
 ![figs/d1-f7.png](figs/d1-f7.png)
 
-# Design2: JPL Comfort Respirator
+# 2. Design 2: JPL Comfort Respirator
 ## Overview
 ![figs/d2-f1.png](figs/d2-f1.png)
 Designed to be manufactured and assembled with little expertise and non-specialized equipment. Printable in two configurations rigid and flexible. All manufacturing materials are easily found at hardware or hobby shops. The chosen 3D printable materials include PLA, PETG and Ninjatek’s Cheetah (TPU) ; these are all common and easily printable filaments with most 3D printers. All assembly parts can be made of either but there are advantages for choosing the most recommended.
@@ -175,7 +180,7 @@ Use the 3D printed seal template to trace and cut the seals, you can fold the se
       * Repeat this for all four strap mounts.
   ![figs/d2-f16.png](figs/d2-f16.png)
 
-# Design3: JPL Conforming Respirators
+# 3. Design 3: JPL Conforming Respirators
 ## Overview:
 Using more advanced printing material and multiple extruder nozzle size options this design is focused on conforming to a wide range of faces and accelerated printing. This means fewer sizes are needed to comfortably seal to the range of human face dimensions.
   ![figs/d3-f11.png](figs/d3-f1.png)
@@ -335,7 +340,57 @@ Cut sewing elastic and tie as shown:
 ![figs/d3-f8.png](figs/d3-f8.png)
 
 
-# Doing your own Fit Check (aka seal test):
+# 4. Design 4: Custom Filters to fit the respirators Overview:
+Because there is a critical shortage of commercial respirator filters, the JPL team designed, built, and tested custom filters with the respirators. This section describes how to build those.
+
+The filter media can either be Commercial Off The Shelf (COTS) filter cartridges, like the P100 filter, or they can be home-built filters that either use cut up N95 masks or HEPA filter material. We have been testing the performance of different HEPA filters from hardware stores to demonstrate how well they filter out particles. Additionally, it was found during testing that flat filter material implementation did not provide sufficient filter surface area causing high breathing resistance and reducing filter effectiveness. Consequently the custom filter cartridges described here utilize a pleated filter material design to significantly increase the filter surface area to make it easier to breathe.
+
+## Custom Filter Cartridge - 3M Compatible:
+![figs/d4-f1.png](figs/d4-f1.png)
+A custom filter cartridge was designed to both be compatible with 3M style adaptors and allow the use of alternate filter materials, such as HEPA vacuum bags. It is intended that future cartridge designs will provide compatibility with other brands. For this design, the pleated filter material provides 3.25x greater surface area compared to flat sheet.
+
+## Printed Parts:
+* 1x Filter Base
+    * Material - PLA or PETG
+    * Print Settings - 0.2 mm layer height, 3 perimeters, 0.45 mm line width, 10% infill
+    * Notes - Is printed with additional perimeter to reduce the likelihood of porous side walls.
+* 1x Filter Cover - 
+    * Material - PLA or PETG
+    * Print Settings - Normal print settings.
+    * Notes - None.
+
+## Other:
+ * 2x HEPA Filter Cloth​ - Reference designs respirator designs 2 &3 for instructions on cutting the foam ring seals.
+ * 4x #4 x 3⁄8” Flat Head Wood or Sheet Metal Screws - These can commonly be found at larger hardware stores in the fastener section.
+
+## Assembly (see pictures below to go with the text):
+ 1. Cut two sheets of the filter cloth to a size of approximately 84x138 mm (3.31”x5.43”).
+ 2. Create 13mm (1⁄2”) pleats in the filter cloth. The small 3mm ends should also be folded. Taking care with this step makes the rest go more smoothly.
+ 3. Insert the two pleated filter cloths into the filter base.
+ 4. Ensure that the filter cloth is fully seated. Using a small screwdriver to push the valleys of the filter into the frame helps with this.
+ 5. Insert filter cover to clamp the filter cloth.
+ 6. Check that the exhaust channels are not blocked by excess filter material. If the channels are blocked remove the cover; trim a small amount from the filter cloth; and then replace the cover.
+ 7. Secure the filter cover with four #6 flat head wood screws.
+ 
+ ![figs/d4-f2.png](figs/d4-f2.png)
+ 
+## Integrated Filter Cartridge - Design 1 Filter:
+The integrated filter cartridge utilizes the same pleated design and is assembled in the same manner as the 3M compatible version but in the size package directly compatible with Design1’s flexible face seal. Please reference the section above for materials, components, and additional assembly details.
+
+### Assembly (see pictures below to go with the text):
+Cartridge assembly follows the same process as the 3M compatible cartridge. A condensed version is described below:
+ 1. Fold two 61x190 mm (2.4”x7.5”) layers of filter material with 13 mm (1⁄2”) pleats.
+ 2. Insert pleated filter material into the filter cartridge base.
+ 3. Attach cover and fixture in place with four #6 flat head screws.
+  ![figs/d4-f3.png](figs/d4-f3.png)
+
+## 5. Select Respirator Fit Test Results
+The test results document describes the performance of the respirators in the JPL tests. They were tested by the same individual and the same equipment for comparisons. Your results may vary depending on the size and shape or your face. Please perform a fit test before using them. The test results can be viewed at:
+
+ * https://drive.google.com/file/d/1wHfQ2mfvhPVK0e2QqBtErNonMUchVUmq/view?usp=sharing
+ ![figs/d4-f4.png](figs/d4-f4.png)
+
+# 6. Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
 We recommend the published CDC NIOSH positive and negative seal check procedure​ before using the respirator to make sure that it is of proper size and to ensure there weren't any faults during manufacturing/assembling. Do this without filter cartridges installed, ports should be easily blocked with the palms of your hands.
 How to do a positive pressure user seal check
@@ -347,15 +402,15 @@ Negative pressure seal checks are typically conducted on particulate respirators
 
  1. [CDC NIOSH](https://www.cdc.gov/niosh/docs/2018-130/pdfs/2018-130.pdf)
  
-# Resources
+# 7. Other Resources
 There are many resources for learning how to properly fit and test your respirator. See the following links for instructions:
 
  * https://www.youtube.com/watch?v=yBg2B2BP9nA
  * https://www.youtube.com/watch?v=DzIDhYGnDIM
  * https://www.worksitemed.com/niosh-explains-respirator-seal-checks/
  
-# Disclaimer
+# 8. Disclaimer
 The designs herein have not been reviewed, cleared, or approved by FDA or other regulatory authority, nor have they received Coronavirus Disease 2019 (COVID-19) Emergency Use Authorizations for Medical Devices. Neither California Institute of Technology (including the Jet Propulsion Laboratory)(“Caltech”) nor its employees or agents provide any representation or warranty, express or implied, for fitness for a particular purpose, safety, efficacy, or non-infringement of any third party intellectual property rights. Caltech offers these device designs in good faith to help healthcare providers and others prevent the spread of and treat patients with COVID-19. Physicians and other healthcare providers bear full responsibility to convey warnings and obtain patients’ informed consent.
 
-# Acknowledgement
+# 9. Acknowledgements
 The research was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration​.
