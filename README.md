@@ -210,9 +210,9 @@ This comes in two styles, Fast Vase and Low Profile Vase variations shown above.
 ## Directions:
   1. If using existing files measure your menton-sellion (m) length. If you would like to design a custom fit take the measurements to fill in the table below.
   <table>
-  <th>
- <td colspan="4">Choose units (mm preferred)</td>
-   </th>
+  <tr>
+    <td colspan="4">Choose units (mm preferred)</td>
+  </tr>
   <tr>
    <td>Measurements</td>
    <td>&nbsp;</td>
@@ -238,6 +238,28 @@ This comes in two styles, Fast Vase and Low Profile Vase variations shown above.
    <td>&nbsp;</td>
   </tr>
 </table>
+
+2. Choose STL based off of menton-sellion length:
+ <table>
+  <tr>
+    <td>Size</td>
+    <td>STL</td>
+  </tr>
+  <tr>
+   <td>10-12 cm</td>
+   <td>Invert M.stl</td>
+  </tr>
+  <tr>
+   <td>9-10cm</td>
+   <td>Invert S.stl</td>
+  </tr>
+  <tr>
+   <td>12-13 cm</td>
+   <td>Invert L.stl</td>
+  </tr>
+ </table>
+  
+
 
 # Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
