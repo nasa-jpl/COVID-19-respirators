@@ -19,7 +19,7 @@ Below are sections for three different respirator designs that are intended for 
  1. [Design 1: The Performance Respirator](https://github.com/nasa-jpl/COVID-19-respirators/blob/master/README.md#1-design-1-jpl-performance-respirator)
  2. [Design 2: The Comfort Respirator](https://github.com/nasa-jpl/COVID-19-respirators#2-design-2-jpl-comfort-respirator)
  3. [Design 3: The Conforming Respirator](https://github.com/nasa-jpl/COVID-19-respirators#3-design-3-jpl-conforming-respirators)
- 4. [Creating custom cartridges to fit the respirators](https://github.com/nasa-jpl/COVID-19-respirators#4-design-4-custom-filters-to-fit-the-respirators-overview)
+ 4. [Creating custom cartridges to fit the respirators](https://github.com/nasa-jpl/COVID-19-respirators#4-design-4-custom-filters-to-fit-the-respirators)
  5. [Respirator Fit Test Results](https://github.com/nasa-jpl/COVID-19-respirators#5-select-respirator-fit-test-results)
  6. [Doing your own Fit Test Check](https://github.com/nasa-jpl/COVID-19-respirators#6-doing-your-own-fit-check-aka-seal-test)
  7. [Other Resources](https://github.com/nasa-jpl/COVID-19-respirators#7-other-resources)
