@@ -3,9 +3,9 @@
 JPL designed and tested 3D printed respirators to help with the COVID-19 pandemic response.
 The designs and instructions for three different types of respirators and the resulting detailed test data is published here.
 In addition, designs and instructions for custom filters are also included.
-You can review JPL's test results but these respirators are not certified by NIOSH or any medical institution, so use at your own risk.
+These designs were tested according to many criteria, including fit checks,  breathability, comfort, etc, and the test results are available at https://drive.google.com/file/d/1wHfQ2mfvhPVK0e2QqBtErNonMUchVUmq/view?usp=sharing. Note that these respirators are not certified by NIOSH or any medical institution, so use at your own risk.
 
-These designs, instructions, and test data are released to Open Source with the hope that companies and individuals who have access to 3D printers, and who want to help, can print or create these for those who need them. ​We are purposefully not using materials in the normal medical supply chain as it should be kept free to create commercial and certified respirators. We expect and hope that these designs will be commented on and improved by everyone during and after this pandemic.
+These designs, instructions, STL files, and JPL's initial test data are released to Open Source with the hope that companies and individuals who have access to 3D printers, and who want to help, can print or create these for those who need them. ​We are purposefully not using materials in the normal medical supply chain as it should be kept free to create commercial and certified respirators. We expect and hope that these designs will be commented on and improved by everyone during and after this pandemic.
 
 To decide which respirator is right for your use, please consider these questions:
  1. How are you planning to use the mask?
