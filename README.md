@@ -111,6 +111,8 @@ Once the required parts are printed, this is the basic assembly process (refer t
 ![figs/d1-f6.png](figs/d1-f6.png)
 ![figs/d1-f7.png](figs/d1-f7.png)
 
+<a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
+
 # 2. Design 2: JPL Comfort Respirator
 ## Overview
 <a href="https://github.com/nasa-jpl/COVID-19-respirators/tree/master/stl/design2-comfort/"><img src="figs/etc/download.png" width="40" height="40"/>Download STL files</a><br/>
@@ -181,6 +183,8 @@ Use the 3D printed seal template to trace and cut the seals, you can fold the se
   ![figs/d2-f15.png](figs/d2-f15.png)
       * Repeat this for all four strap mounts.
   ![figs/d2-f16.png](figs/d2-f16.png)
+
+<a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
 
 # 3. Design 3: JPL Conforming Respirators
 ## Overview:
@@ -342,6 +346,7 @@ Cut sewing elastic and tie as shown:
 6. Assemble pieces and test
 ![figs/d3-f8.png](figs/d3-f8.png)
 
+<a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
 
 # 4. Design 4: Custom Filters to fit the respirators
 ## Overview:
@@ -389,11 +394,15 @@ Cartridge assembly follows the same process as the 3M compatible cartridge. A co
  3. Attach cover and fixture in place with four #6 flat head screws.
   ![figs/d4-f3.png](figs/d4-f3.png)
 
+<a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
+
 ## 5. Select Respirator Fit Test Results
 The test results document describes the performance of the respirators in the JPL tests. They were tested by the same individual and the same equipment for comparisons. Your results may vary depending on the size and shape or your face. Please perform a fit test before using them. The test results can be viewed at:
 
  * https://drive.google.com/file/d/1wHfQ2mfvhPVK0e2QqBtErNonMUchVUmq/view?usp=sharing
  ![figs/d4-f4.png](figs/d4-f4.png)
+
+<a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
 
 # 6. Doing your own Fit Check (aka seal test):
 Please ensure the respirator user performs a fit check before using these in a potentially hazardous setting.
@@ -407,6 +416,8 @@ Negative pressure seal checks are typically conducted on particulate respirators
 
  1. [CDC NIOSH](https://www.cdc.gov/niosh/docs/2018-130/pdfs/2018-130.pdf)
  
+ <a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
+ 
 # 7. Other Resources
 There are many resources for learning how to properly fit and test your respirator. See the following links for instructions:
 
@@ -414,8 +425,15 @@ There are many resources for learning how to properly fit and test your respirat
  * https://www.youtube.com/watch?v=DzIDhYGnDIM
  * https://www.worksitemed.com/niosh-explains-respirator-seal-checks/
  
+ <a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
+ 
 # 8. Disclaimer
 The designs herein have not been reviewed, cleared, or approved by FDA or other regulatory authority, nor have they received Coronavirus Disease 2019 (COVID-19) Emergency Use Authorizations for Medical Devices. Neither California Institute of Technology (including the Jet Propulsion Laboratory)(“Caltech”) nor its employees or agents provide any representation or warranty, express or implied, for fitness for a particular purpose, safety, efficacy, or non-infringement of any third party intellectual property rights. Caltech offers these device designs in good faith to help healthcare providers and others prevent the spread of and treat patients with COVID-19. Physicians and other healthcare providers bear full responsibility to convey warnings and obtain patients’ informed consent.
 
+<a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
+
 # 9. Acknowledgements
-The research was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration​.
+The research was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration.
+
+<a href="https://github.com/nasa-jpl/COVID-19-respirators#jpl-covid-19-respirators"><img src="figs/etc/1024px-Go-top.svg.png" width="40" height="40"/>Return to Top</a>
+
