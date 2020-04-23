@@ -27,6 +27,7 @@ Below are sections for three different respirator designs that are intended for 
  
 # 1. Design 1: JPL Performance Respirator
 ## Overview
+<a href="https://github.com/nasa-jpl/COVID-19-respirators/zipball/master/stl/design1-performance.zip"><img src="figs/etc/download.png" width="40" height="40"/>Download STL files</a>
 ![Two configurations, custom detachachable filter cartridge and integrated filter cartridge, for version 6 of the performance respirator being worn by the designer.](figs/d1-f1.png)
 
 The performance respirator design attempts to mimic the face seal geometry of commercial half-face respirators, such as those from 3M, to provide the highest level of fit performance. This is achieved through the use of a two piece assembly that consists of both a flexible and rigid element. The rigid element provides effective attachment for external filter cartridges while the flexible element has an internal lip to provide a conformal seal against the user’s face. The design also allows the front rigid section to be exchanged for compatibility with a wide range of different filter configurations while preserving the face seal and mounting straps.
@@ -112,6 +113,7 @@ Once the required parts are printed, this is the basic assembly process (refer t
 
 # 2. Design 2: JPL Comfort Respirator
 ## Overview
+<a href="https://github.com/nasa-jpl/COVID-19-respirators/zipball/master/stl/design2-comfort.zip"><img src="figs/etc/download.png" width="40" height="40"/>Download STL files</a>
 ![figs/d2-f1.png](figs/d2-f1.png)
 Designed to be manufactured and assembled with little expertise and non-specialized equipment. Printable in two configurations rigid and flexible. All manufacturing materials are easily found at hardware or hobby shops. The chosen 3D printable materials include PLA, PETG and Ninjatek’s Cheetah (TPU) ; these are all common and easily printable filaments with most 3D printers. All assembly parts can be made of either but there are advantages for choosing the most recommended.
 
@@ -182,6 +184,7 @@ Use the 3D printed seal template to trace and cut the seals, you can fold the se
 
 # 3. Design 3: JPL Conforming Respirators
 ## Overview:
+<a href="https://github.com/nasa-jpl/COVID-19-respirators/zipball/master/stl/design3-conforming.zip"><img src="figs/etc/download.png" width="40" height="40"/>Download STL files</a>
 Using more advanced printing material and multiple extruder nozzle size options this design is focused on conforming to a wide range of faces and accelerated printing. This means fewer sizes are needed to comfortably seal to the range of human face dimensions.
   ![figs/d3-f11.png](figs/d3-f1.png)
 
@@ -340,7 +343,9 @@ Cut sewing elastic and tie as shown:
 ![figs/d3-f8.png](figs/d3-f8.png)
 
 
-# 4. Design 4: Custom Filters to fit the respirators Overview:
+# 4. Design 4: Custom Filters to fit the respirators
+## Overview:
+<a href="https://github.com/nasa-jpl/COVID-19-respirators/zipball/master/stl/design4-filters.zip"><img src="figs/etc/download.png" width="40" height="40"/>Download STL files</a>
 Because there is a critical shortage of commercial respirator filters, the JPL team designed, built, and tested custom filters with the respirators. This section describes how to build those.
 
 The filter media can either be Commercial Off The Shelf (COTS) filter cartridges, like the P100 filter, or they can be home-built filters that either use cut up N95 masks or HEPA filter material. We have been testing the performance of different HEPA filters from hardware stores to demonstrate how well they filter out particles. Additionally, it was found during testing that flat filter material implementation did not provide sufficient filter surface area causing high breathing resistance and reducing filter effectiveness. Consequently the custom filter cartridges described here utilize a pleated filter material design to significantly increase the filter surface area to make it easier to breathe.
