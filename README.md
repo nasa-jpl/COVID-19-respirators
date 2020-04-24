@@ -14,13 +14,13 @@ To decide which respirator is right for your use, please consider these question
  6. What’s your face size?
 
 Below are sections for three different respirator designs that are intended for different uses, how to make your own cartridges and filters, how to test them, a disclaimer, and acknowledgements:
- 1. [Design 1: The Performance Respirator](wiki/JPL-Performance-Respirator)
- 2. [Design 2: The Comfort Respirator](wiki/JPL-Comfort-Respirator)
- 3. [Design 3: The Conforming Respirator](wiki/JPL-Conforming-Respirators)
- 4. [Design 4: Creating custom cartridges to fit the respirators](wiki/Custom-Filters-to-fit-the-respirators)
- 5. [Respirator Fit Test Results](wiki/Select-Respirator-Fit-Test-Results)
- 6. [Doing your own Fit Test Check](wiki/Doing-your-own-Fit-Check-(aka-seal-test))
- 7. [Other Resources](wiki/Other-Resources)
- 8. [Disclaimer](wiki/Disclaimer)
- 9. [Acknowledgements](wiki/Acknowledgements)
+ 1. [Design 1: The Performance Respirator](https://github.com/nasa-jpl/COVID-19-respirators/wiki/JPL-Performance-Respirator)
+ 2. [Design 2: The Comfort Respirator](https://github.com/nasa-jpl/COVID-19-respirators/wiki/JPL-Comfort-Respirator)
+ 3. [Design 3: The Conforming Respirator](https://github.com/nasa-jpl/COVID-19-respirators/wiki/JPL-Conforming-Respirators)
+ 4. [Design 4: Creating custom cartridges to fit the respirators](https://github.com/nasa-jpl/COVID-19-respirators/wiki/Custom-Filters-to-fit-the-respirators)
+ 5. [Respirator Fit Test Results](https://github.com/nasa-jpl/COVID-19-respirators/wiki/Select-Respirator-Fit-Test-Results)
+ 6. [Doing your own Fit Test Check](https://github.com/nasa-jpl/COVID-19-respirators/wiki/Doing-your-own-Fit-Check-(aka-seal-test))
+ 7. [Other Resources](https://github.com/nasa-jpl/COVID-19-respirators/wiki/Other-Resources)
+ 8. [Disclaimer](https://github.com/nasa-jpl/COVID-19-respirators/wiki/Disclaimer)
+ 9. [Acknowledgements](https://github.com/nasa-jpl/COVID-19-respirators/wiki/Acknowledgements)
  
