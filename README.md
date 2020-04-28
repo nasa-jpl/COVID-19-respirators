@@ -1,5 +1,5 @@
 ![Jet Propulsion Laboratory, California Institute of Technology (NASA JPL)](figs/etc/nasa-jpl-logo.png)
-# JPL Designed 3D printed COVID-19-respirators
+# JPL Designed 3D printable COVID-19-respirators
 ![figs/overview-respirator.png](figs/overview-respirator.png)
 JPL designed and tested 3D printed respirators to help with the COVID-19 pandemic response. The designs and instructions for three different types of respirators and the resulting detailed test data is published here. In addition, designs and instructions for custom filters are also included. These designs were tested according to many criteria, including fit checks,  breathability, comfort, etc, and the [test results are available](https://drive.google.com/file/d/1jFTpLc9N4Tql1t_TO8P_oJAa82crM449/view?usp=sharing). **Note that these respirators are not certified by NIOSH or any medical institution, so use at your own risk**.
 
