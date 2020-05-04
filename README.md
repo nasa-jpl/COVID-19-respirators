@@ -12,8 +12,11 @@ To decide which respirator is right for your use, please consider these question
  4. Which printers do you have access to?
  5. What’s your face shape?
  6. What’s your face size?
+ 
+Below are sections for three different respirator designs that are intended for different uses, how to make your own cartridges and filters, how to test them, a disclaimer, and acknowledgements.
 
-Below are sections for three different respirator designs that are intended for different uses, how to make your own cartridges and filters, how to test them, a disclaimer, and acknowledgements:
+ **Table of Contents**
+ 
  1. [Design 1: The Performance Respirator](https://github.com/nasa-jpl/COVID-19-respirators/wiki/JPL-Performance-Respirator)
  2. [Design 2: The Comfort Respirator](https://github.com/nasa-jpl/COVID-19-respirators/wiki/JPL-Comfort-Respirator)
  3. [Design 3: The Conforming Respirator](https://github.com/nasa-jpl/COVID-19-respirators/wiki/JPL-Conforming-Respirators)
