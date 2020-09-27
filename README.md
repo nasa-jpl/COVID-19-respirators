@@ -27,3 +27,4 @@ Below are sections for three different respirator designs that are intended for 
  8. [Disclaimer](https://github.com/nasa-jpl/COVID-19-respirators/wiki/Disclaimer)
  9. [Acknowledgements](https://github.com/nasa-jpl/COVID-19-respirators/wiki/Acknowledgements)
  
+ [![HitCount](http://hits.dwyl.com/nasa-jpl/COVID-19-respirators.svg)](http://hits.dwyl.com/nasa-jpl/COVID-19-respirators)
